@@ -26,7 +26,7 @@ I'm a passionate **Front-End Developer** with a strong eye for detail and a deep
 
 ## 📫 Connect with Me
 
-- [LinkedIn – Kian Shabani](https://www.linkedin.com/in/kian-shabani)
+- [LinkedIn – Kian Shabani](www.linkedin.com/in/kian-shabani-213618333)
 
 ---
 
