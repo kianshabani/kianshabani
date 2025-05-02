@@ -26,11 +26,12 @@ I'm a passionate **Front-End Developer** with a strong eye for detail and a deep
 
 ## 📫 Connect with Me
 
-- [LinkedIn – Kian Shabani](www.linkedin.com/in/kian-shabani-213618333)
+- [LinkedIn – Kian Shabani](https://www.linkedin.com/in/kian-shabani-213618333)
 
 ---
 
 _Thanks for visiting my GitHub profile! Feel free to explore my repositories and follow me for future projects._ ✌️
+
 
 
 
